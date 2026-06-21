@@ -1,0 +1,11 @@
+OrderID,Month,Region,Product,Sales,Profit
+1,Jan,West,Laptop,50000,8000
+2,Jan,East,Mouse,3000,700
+3,Feb,North,Keyboard,4000,900
+4,Feb,South,Laptop,60000,9000
+5,Mar,West,Monitor,15000,3000
+6,Mar,East,Laptop,70000,12000
+7,Apr,North,Mouse,5000,1000
+8,Apr,South,Monitor,18000,3500
+9,May,West,Laptop,55000,8500
+10,May,East,Keyboard,6000,1200
